@@ -1,0 +1,109 @@
+.navbar {
+    height: 60px;
+    width: 1200px;
+    padding: 30px;
+   background-color: rgb(73, 19, 7);
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  .wrapper {
+     display: flex;
+     justify-content: space-between;
+    
+  .logo{
+    width: 170px;
+  }
+      .left {
+            display: flex;
+            margin-left: 40px;
+
+            .item {
+                .title {
+                        text-decoration: double;
+                        color: rgb(59, 165, 124);
+                        font-weight: 600;
+                        font-size: large;
+                        Color:rgb(255, 255, 255);
+                        letter-spacing: 2px;
+                        margin-left: 10px;
+                }
+            }
+  
+          .item {
+              display: flex;
+              align-items: center;
+              
+              gap:12px;
+            
+              text-decoration: none;
+              color: rgb(136, 21, 21);
+              img {
+                  width: 50px;
+                  object-fit: cover;
+              }
+          }
+      }
+
+      .center {
+        display: flex;
+          gap:12px;
+          margin-left: 100px;
+          .item {
+              display: flex;
+              align-items: center;
+              text-decoration: none;
+              color: rgb(75, 70, 70);
+              position: relative;
+            
+              &:hover {
+                  cursor: pointer;
+              }
+              padding: 8px 16px;
+      background-color: rgb(166, 112, 41);
+      border-radius: 20px;
+      transition: background-color 0.3s ease;
+      &:hover {
+        background-color: goldenrod;
+      }
+            }
+
+      }
+
+      .right {
+          display: flex;
+          gap: 12px;
+          margin-left: 300px;
+          .item {
+              display: flex;
+              align-items: center;
+              height: 40px;
+              text-decoration: none;
+              color: rgb(119, 17, 17);
+              position: relative;
+  
+              &:hover {
+                  cursor: pointer;
+              }
+              padding: 8px 16px;
+              background-color: rgb(210, 163, 97);
+              border-radius: 20px;
+              transition: background-color 0.3s ease;
+              &:hover {
+                background-color: goldenrod;
+              }
+  
+              .label {
+                 width: 20px;
+                 height: 20px;
+                 background-color: rgb(73, 181, 73);
+                 border-radius: 50%;
+                 color: white;
+                 position: absolute;
+                 top: -10px;
+                 right: -10px;
+                 display: flex;
+                 align-items: center;
+                 justify-content: center;
+              }
+      }
+    }
+}
+  }

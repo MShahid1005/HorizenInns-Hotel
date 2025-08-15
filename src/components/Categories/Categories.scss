@@ -1,0 +1,15 @@
+.categories {
+  margin: 20px ;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.primary{
+  background-color: rgb(73, 19, 7);
+  color: white;
+  border: 2px solid;
+  border-radius: 7px;
+}
+
