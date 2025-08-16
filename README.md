@@ -25,12 +25,12 @@ Admin Panel : Manage hotels, rooms, and bookings.
 
 
 ## Web Interface
-
-<img width="1257" height="894" alt="Screenshot 2025-08-16 025752" src="https://github.com/user-attachments/assets/50a1bbf5-6e00-458e-8695-748bd14cff06" />
-<img width="2694" height="1236" alt="Screenshot 2025-08-16 025208" src="https://github.com/user-attachments/assets/6fcfa9c9-6b7a-48a2-a767-00642d1cd90d" />
-<img width="2738" height="1151" alt="Screenshot 2025-08-16 025139" src="https://github.com/user-attachments/assets/f658a442-99f4-49a8-b093-97e9f15b5fbe" />
-<img width="2932" height="1203" alt="Screenshot 2025-08-16 025103" src="https://github.com/user-attachments/assets/479428f9-1c9b-4550-838e-ec92a7cfa454" />
-<img width="2671" height="1577" alt="Screenshot 2025-08-16 024958" src="https://github.com/user-attachments/assets/e89a90f0-ab84-49f3-a2f8-542de73252ba" />
-
+<img width="2553" height="1519" alt="Screenshot 2025-08-16 030432" src="https://github.com/user-attachments/assets/38103d9a-9745-4321-a379-5f03933b67fc" />
+<img width="1257" height="894" alt="Screenshot 2025-08-16 025752" src="https://github.com/user-attachments/assets/7a689507-c40d-4b09-9131-6de9aa83c794" />
+<img width="2694" height="1236" alt="Screenshot 2025-08-16 025208" src="https://github.com/user-attachments/assets/176dc787-b2ca-4125-ab53-92e3ea15b029" />
+<img width="2738" height="1151" alt="Screenshot 2025-08-16 025139" src="https://github.com/user-attachments/assets/4b453368-1768-4741-8094-f6675915c3a8" />
+<img width="2932" height="1203" alt="Screenshot 2025-08-16 025103" src="https://github.com/user-attachments/assets/2816c6f0-0c9d-46eb-a3ca-1964b0461c50" />
+![images](https://github.com/user-attachments/assets/f5cab151-0ae3-4995-8018-543182af68f9)
+![photo-1556438758-8d49568ce18e](https://github.com/user-attachments/assets/25a206de-48a9-4fc0-ab45-cd5d81e33ace)
 
 
